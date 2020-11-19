@@ -2,7 +2,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=your-github-username&color=blue)
 
-##### Software Developer, Data Scientist, machine learning enthusiast and lover of everything open source
+#### Software Developer, Data Scientist, machine learning enthusiast and lover of everything open source
 
 <hr>
 
