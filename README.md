@@ -11,7 +11,23 @@
   <code><a href="https://www.instagram.com/edgecase963/" title="Instagram Profile"><img width="22" src="https://github.com/edgecase963/edgecase963/blob/main/images/instagram.svg"> Instagram</a></code>
 </h5>
 
-<a href="https://github.com/edgecase963/github-readme-stats" title="Go to Source"><img width="100%" height="200" src="https://github-readme-stats.vercel.app/api?username=edgecase963&show_icons=true&theme=gotham"></a>
+<p align="center">
+
+<img width="500" src="https://metrics.lecoq.io/edgecase963" alt="Github Metrics">
+
+  <br>
+  <br>
+
+<img width="500" src="https://github-readme-streak-stats.herokuapp.com/?user=edgecase963" alt="Github Streak Stats">
+
+</p>
+
+<br>
+
+<p align="center">
+  <img width="500" alt="blueedge's github stats" src="https://github-readme-stats.vercel.app/api?username=edgecase963&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" ><br><br>
+  <img width="500" alt="languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edgecase963&layout=compact&theme=tokyonight">
+ </p>
 
 <hr>
 
