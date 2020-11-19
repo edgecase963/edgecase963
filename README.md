@@ -1,4 +1,4 @@
-### Jacob Ryant
+## Jacob Ryant
 
 ![Profile Views](https://komarev.com/ghpvc/?username=your-github-username&color=blue)
 
@@ -14,7 +14,7 @@
 <hr>
 
 #### Codewars
-![My Codewarrior Profile Badge](https://www.codewars.com/users/edgecase963/badges/large)
+[![Codewarrior Profile Badge](https://www.codewars.com/users/edgecase963/badges/large)](https://www.codewars.com/users/edgecase963)
 
 #### Lover of open source ❤️
 
