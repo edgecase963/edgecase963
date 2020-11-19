@@ -1,6 +1,8 @@
-## Jacob Ryant
+## Jacob Ryant (edgecase963)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=your-github-username&color=blue)
+
+##### Software Developer, Data Scientist, machine learning enthusiast and lover of everything open source
 
 <hr>
 
@@ -16,7 +18,6 @@
 #### Codewars
 [![Codewarrior Profile Badge](https://www.codewars.com/users/edgecase963/badges/large)](https://www.codewars.com/users/edgecase963)
 
-#### Lover of open source ❤️
 
 #### Stack Overflow
 [![edgecase963 StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=7720135&layout=compact&theme=dark)](https://stackoverflow.com/users/7720135/edgecase)
