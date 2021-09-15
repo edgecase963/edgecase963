@@ -6,10 +6,6 @@
 
 <hr>
 
-<h5 align="center">
-  <code><a href="https://www.hackerrank.com/edgecase963" title="HackerRank Profile"><img width="22" src="https://github.com/edgecase963/edgecase963/blob/main/images/hackerrank.png"> HackerRank</a></code>
-  <code><a href="https://www.instagram.com/edgecase963/" title="Instagram Profile"><img width="22" src="https://github.com/edgecase963/edgecase963/blob/main/images/instagram.svg"> Instagram</a></code>
-</h5>
 
 <p align="center">
 
