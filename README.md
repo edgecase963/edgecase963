@@ -1,7 +1,5 @@
 ## Jacob Ryant (edgecase963)
 
-![Profile Views](https://komarev.com/ghpvc/?username=your-github-username&color=blue)
-
 #### Software Developer, Data Scientist, machine learning enthusiast and lover of everything open source
 
 <hr>
@@ -36,3 +34,5 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=edgecase963)](https://github.com/ryo-ma/github-profile-trophy)
 
 [![Twitter](https://img.shields.io/badge/-Twitter-222222?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/edgecase963)](https://twitter.com/edgecase963)
+
+![Profile Views](https://komarev.com/ghpvc/?username=your-github-username&color=blue)
