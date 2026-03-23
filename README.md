@@ -1,4 +1,4 @@
-## Jacob Ryant (edgecase963)
+## (edgecase963)
 
 #### Software Developer, Data Scientist, machine learning enthusiast and lover of everything open source
 
